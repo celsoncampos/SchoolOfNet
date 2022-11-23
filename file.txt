@@ -1,1 +1,1 @@
-Hello World!
+You are welcome to Git!
